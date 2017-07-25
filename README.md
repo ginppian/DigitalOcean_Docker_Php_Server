@@ -19,7 +19,7 @@ docker-compose build
 	Corremos el servidor con la opción -d para que lo ejecute en background y puedamos seguir usando la termianl.
 </p>
 
-```
+```bash
 docker-compose up -d
 ```
 
@@ -27,7 +27,7 @@ docker-compose up -d
 	Detenemos el servidor.
 </p>
 
-```
+```bash
 docker-compose stop
 ```
 
