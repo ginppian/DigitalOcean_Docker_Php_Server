@@ -11,7 +11,7 @@ Digital Ocean
 	Descargamos todas las librerias necesarias y construir todo el ambiente de desarrollo.
 </p>
 
-```
+```bash
 docker-compose build
 ```
 
