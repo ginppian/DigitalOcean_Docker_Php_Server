@@ -12,7 +12,7 @@ Digital Ocean
 </p>
 
 ```
-	docker-compose build
+docker-compose build
 ```
 
 <p align="justify">
@@ -20,7 +20,7 @@ Digital Ocean
 </p>
 
 ```
-	docker-compose up -d
+docker-compose up -d
 ```
 
 <p align="justify">
@@ -28,7 +28,7 @@ Digital Ocean
 </p>
 
 ```
-	docker-compose stop
+docker-compose stop
 ```
 
 ## Fuente
